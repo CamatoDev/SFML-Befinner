@@ -1,0 +1,7 @@
+﻿  SFML_Learn.cpp
+C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\SFML_Learn\SFML_Learn.cpp(17,11): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\SFML_Learn\SFML_Learn.cpp(18,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\SFML_Learn\SFML_Learn.cpp(84,81): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\SFML_Learn\SFML_Learn.cpp(84,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  LINK : C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\x64\Debug\SFML_Learn.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  SFML_Learn.vcxproj -> C:\Users\mrcto\Desktop\PolyTech\3ème Année (GAP)\Semestre 2\Programmation2D\SFML_Learn\x64\Debug\SFML_Learn.exe
